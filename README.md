@@ -1,1 +1,1 @@
-<a href=" https://github.com/ylnj/ylnj.github.io/edit/main/index.html">编辑</a>
+[编辑](https://github.com/ylnj/ylnj.github.io/edit/main/index.html)
